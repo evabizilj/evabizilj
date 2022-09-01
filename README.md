@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Eva.
 - 👀 I’m interested in Computer Vision and Embedded Electronics. 
-- ✔️ I have experience in C, Java, C#, Python, VHDL and ML/DL Frameworks such as PyTorch and TensorFlow.
 - 💞️ I’m looking forward to collaborate.
 - 📫 E-mail: ebizilj@gmail.com.
